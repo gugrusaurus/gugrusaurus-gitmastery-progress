@@ -50,5 +50,14 @@
     "completed_at": 1786720754.417578,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786780364.146587,
+    "completed_at": 1786780365.965808,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
   }
 ]
